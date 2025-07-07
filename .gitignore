@@ -1,0 +1,21 @@
+# Ignore les dossiers de build
+bin/
+obj/
+
+# Ignore les fichiers de config Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Backup
+*.bak
+*.tmp
+*.swp
+
+# Répertoires générés automatiquement
+TestResults/
