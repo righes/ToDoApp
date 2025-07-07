@@ -25,5 +25,10 @@ Ma Liste Intelligente de Tâches
 - Build et dependances : bin/ & obj/
 - Visual Studio : .vs/
 - Fichiers tempo : *.user & *.suo & *.userosscache & *.sln.docstates
-
+# Step 1 ( Program.cs )
+Gestionnaire taches ( façon terminal )
+- Ajouter une tache 
+- Afficher les tâches 
+- Quitter
+- choix : _
 
