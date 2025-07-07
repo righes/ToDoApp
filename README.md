@@ -21,3 +21,9 @@ Ma Liste Intelligente de Tâches
 - Auth user
 - Bases de données : SQLite / SQL Server
 - JSON ( Newtonsoft.Json / System.Text.Json )
+# .gitignore : touch .gitignore
+- Build et dependances : bin/ & obj/
+- Visual Studio : .vs/
+- Fichiers tempo : *.user & *.suo & *.userosscache & *.sln.docstates
+
+
